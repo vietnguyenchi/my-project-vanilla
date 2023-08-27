@@ -1,0 +1,11 @@
+{
+    "compilerOnSave": {
+        "module": "commomjs",
+        "target": "es6",
+        "baesUrl": "./src",
+        "path": {
+            "@/*": ["*"]
+        }
+    },
+    "exclude": ["node_modules"]
+}
